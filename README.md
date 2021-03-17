@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  <a href="https://github.com/anahelenasilva">
+## Olá! Eu sou a Ana Helena :)
+<a href="https://github.com/anahelenasilva">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anahelenasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anahelenasilva&layout=compact&langs_count=8&theme=dracula"/>
+<div>
