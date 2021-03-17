@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **anahelenasilva/anahelenasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <a href="https://github.com/anahelenasilva">
+<a href="https://github.com/anahelenasilva">
 ## Olá! Eu sou a Ana Helena :)
 <a href="https://github.com/anahelenasilva">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anahelenasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
