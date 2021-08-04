@@ -1,7 +1,7 @@
 ## Hello! I'm Ana Helena :smiley:
 ### :round_pushpin: Currently living in Ribeirao Preto, Sao Paulo
 ### :computer: I love C# and I've been working with it for around 10 years now
-### :books: I love trying out new technologies for myself, so I'm learning GraphQL, NodeJS, NoSQL databases and so on
+### :books: I love trying out new technologies for myself, so I'm learning GraphQL, NodeJS, ReactJS, NoSQL databases and so on
 ### :email: Feel free to reach out
 
 <a href="https://github.com/anahelenasilva">
