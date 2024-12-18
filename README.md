@@ -1,7 +1,7 @@
 ## Hello there 👋 I'm Ana Helena :smiley:
 ### :round_pushpin: Currently living in Ribeirao Preto, Sao Paulo
-### :computer: Currently working with Node.js with Typescript
-### :books: I love trying out new technologies for myself, so I'm learning GraphQL, ReactJS, NoSQL databases and so on
+### :computer: Currently working with Node.js with Typescript, GraphQL, DynamoDB and AWS
+### :books: I love trying out new technologies for myself, so I'm learning Python and Gen AI Models, such as ChatGPT
 ### :email: Feel free to reach out
 
 <a href="https://github.com/anahelenasilva">
